@@ -18,39 +18,6 @@ Examples include:
 - 🧠 Smart match engines  
 - 📊 Hybrid Excel/CSV processors  
 
-Every variant lives in its **own folder**, and each folder contains:
-
-- `script.ps1` — the main PowerShell script  
-- `README.md` — details about how that variant works  
-- Example usage (when relevant)
-
----
-
-## 🧭 Repo Structure Example
-
-
-
-/Match-It/
-│
-├── Match-It-Basic/
-│ ├── match.ps1
-│ └── README.md
-│
-├── Match-It-Conditional/
-│ ├── match.ps1
-│ └── README.md
-│
-├── Match-It-Fallback/
-│ ├── match.ps1
-│ └── README.md
-│
-└── Match-It-Advanced/
-├── match.ps1
-└── README.md
-
-
----
-
 ## 🎯 Mission
 
 To provide a collection of **high-performance, zero-dependency PowerShell tools** that solve real-world reconciliation and mapping problems without needing Excel formulas, external modules, or complex pipelines.
@@ -66,8 +33,6 @@ Each variant includes:
 - Workflow logic  
 - Usage examples  
 - Notes and warnings  
-
-Check individual folders for details.
 
 ---
 
